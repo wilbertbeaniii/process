@@ -11,7 +11,26 @@ The fundamental business processes are:
     - Close the deal 
     - Nurture and continue to sell
  2. Hiring Process
- 
+    - Identify the hiring need
+    - Devise a recruitment plan
+    - Write a job description
+    - Advertise the position
+    - Recruit the Position
+    - Review Applications
+    - Phone Interview/Initial Screening
+    - Interviews
+    - Applicant Assessment
+    - Background Check
+    - Decision
+    - Reference Check
+    - Job Offer
+    - Hiring 
+    - - Form W-4
+    - - Form I-9 and E-Verify'
+    - - State Withholding and Registrations
+    - - A checklist with all required paperwork to be completed by new employees
+    - - An organizations employee handbook
+    - Onboarding
  3. Service Delivery Process
    
  4. Collections Process
