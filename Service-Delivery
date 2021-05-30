@@ -1,1 +1,29 @@
 ### This file details the process for service delivery for WB3.
+
+New Customer Domain and CPanel Setup
+    1. Login to reseller portal
+    2. Go to Reports and click the drop down menu
+    3. Click customer look up and search for the customer account you want to login to
+    4. Click login as customer
+
+Domain Setup
+    1. Click use my domain
+
+CPanel Setup
+    1. Click Setup
+    2. In the “Select a domain from your account” reflects the domain the customer has registered, and click next
+    3. In the “Choose a data center” view click “North America”.
+    4. In the “Create a WordPress Website” view click “No, Thanks”.
+        1. From the “My Products” view, click on Manage under “Web Hosting”.
+        2. In the Websites section click on “Install Application”
+        3. In the “Apps for Content Management” Click on WordPress
+        4. Click “install this application”
+5. In the “Installation”, “settings” view input:
+    1. un: Wbean
+    2. Pw: Jesus-is-lord@123
+    3. Admin email: me@wilbertbeaniii.com
+6. Click Install
+
+WordPress Setup
+    1. In the Installation view click “www.domain.com/wp-admin/“
+    2. Inside of the WordPress dashboard you want to go to “Plugins”
