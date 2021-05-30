@@ -32,5 +32,20 @@ The fundamental business processes are:
     - - An organizations employee handbook
     - Onboarding
  3. Service Delivery Process
-   
+     - Identify Business and Commodity Services Required By Business Units
+     - Identify Key Stakeholders and Priority for Each Business Service
+     - Develop Enterprise List of Business Services
+     - Socialize Across Enterprise
+     - Develop/Executive Work Plan
+     - Measure Service Delivery
+     - Continuously Improve
  4. Collections Process
+     - Establish process
+     - Create policies
+     - Clear Invoicing
+     - Timely Invoices
+     - Proactively manage your accounts
+     - Call
+     - Call Again
+     - Discounts for fast payment
+     - Use a collection agency
