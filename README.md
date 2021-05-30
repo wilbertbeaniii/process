@@ -1,4 +1,4 @@
-# process
+# Business Processes
 This repository is for process documentation management.    
 The fundamental business processes are:
  
