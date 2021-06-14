@@ -1,0 +1,37 @@
+Process Walk Planning Checklist
+
+Question:
+What is the process being walked?
+What is the high-level process?
+How do we know there is a problem?
+Who will be involved in the Process Walk?
+Who do we need to inform? Do we need permission?
+When and where will the Process Walk take place?
+Have participants been informed?
+When and where will the orientation take place.
+What is the agenda and order of interviews?
+What is the agenda for the Process Walk Orientation?
+
+Action:
+Pick a process to focus on 
+Draft a SIPOC
+Collect Voice of the customer and/or baseline data
+Select Process Walk participants
+List the stakeholders and invite them to Process Walk Orientation
+Select a date and location based on Process Walk participants and their schedules
+Send out a meeting invite
+Determine the data and location of the orientation
+Draft the agenda and determine the interview order
+Create a slide deck to share at the Process Walk
+
+Notes:
+Pick a cross-functional process with cycle time issues or defects
+Identify customers, stakeholders and requirements
+Pick a measure to improve, create a graph, show current vs. target and share the VOC feedback
+List process roles based on the SIPOC, select participants, determine # of interviews and whether running 1 or 2 days
+Enlist stakeholder to show support during orientation and/or Process Walk
+Determine interview locations, reserve a room (1-2 days) for Process Walk participant debrief between interviews
+Ensure all participants are aware it's an all day event - send invite with explanation of purpose and benefits
+Reserve a room for 1.5 hour orientation that includes a projector and screen invite all participants and stakeholders
+Include interview locations if moving around 0ensure all are aware of where to meet
+Project leads prepare to present Project Charter, SIPOC and baseline slides  
